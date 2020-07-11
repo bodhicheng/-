@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/POJ-2777.dir/POJ-2777.cpp.o  -o POJ-2777 
